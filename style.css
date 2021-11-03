@@ -12,3 +12,8 @@
     height: 93vh;
     width: 100%;
 }
+
+.btn-primary {
+    background-color: #fff;
+    color: #396DF2;
+}
