@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.backgroundImage {
+    background-image: url('./images/Headerbg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 93vh;
+    width: 100%;
+}
